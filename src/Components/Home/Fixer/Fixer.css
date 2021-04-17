@@ -1,0 +1,26 @@
+.fixerCardInfo img{
+    height: 320px;
+    width: 300px;
+}
+
+.fixerCardInfo{
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    background-color: white;
+    box-shadow: 1px 10px 40px 10px ;
+}
+
+.fixerBg{
+    /* background-color: yellowgreen; */
+    background-image: url('https://direcycle.org/wp-content/uploads/2018/08/iStock-625135580.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    /* border: 1px solid red; */
+    padding-top: 50px;
+}
